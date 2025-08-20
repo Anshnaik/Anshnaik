@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  ## ![About Me](https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 About Me  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
 
 - 👨‍💻 Currently learning **Node.js, Express.js, MongoDB & React**  
 - 🌱 Exploring **Spring Boot** for backend  
