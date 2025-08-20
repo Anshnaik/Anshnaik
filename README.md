@@ -5,7 +5,8 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me  ## ![About Me](https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=white)
+
 - 👨‍💻 Currently learning **Node.js, Express.js, MongoDB & React**  
 - 🌱 Exploring **Spring Boot** for backend  
 - 🛠️ I build projects to **reinforce fundamentals** (Tic Tac Toe 🎮, authentication systems 🔐)  
